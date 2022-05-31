@@ -1,5 +1,5 @@
 # MICA - Monmouth Inventory Control Application
-An inventory web application which allows university employess to monitor univeristy information technology equipment in the classroom
+An inventory web application which allows university employees to monitor university information technology equipment in the classroom
 
 **Live Demo**: https://client.dmrivnmbpg0xd.amplifyapp.com/
 
