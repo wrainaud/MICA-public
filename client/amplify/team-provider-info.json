@@ -1,0 +1,33 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-micatest01-staging-174129-authRole",
+      "UnauthRoleArn": "arn:aws:iam::316397412587:role/amplify-micatest01-staging-174129-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::316397412587:role/amplify-micatest01-staging-174129-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-micatest01-staging-174129-deployment",
+      "UnauthRoleName": "amplify-micatest01-staging-174129-unauthRole",
+      "StackName": "amplify-micatest01-staging-174129",
+      "StackId": "arn:aws:cloudformation:us-east-1:316397412587:stack/amplify-micatest01-staging-174129/ac3e38b0-8f4f-11ec-9a2a-125ac310aecd",
+      "AmplifyAppId": "dmrivnmbpg0xd"
+    }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mica-dev-114434-authRole",
+      "UnauthRoleArn": "arn:aws:iam::029848503101:role/amplify-mica-dev-114434-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::029848503101:role/amplify-mica-dev-114434-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mica-dev-114434-deployment",
+      "UnauthRoleName": "amplify-mica-dev-114434-unauthRole",
+      "StackName": "amplify-mica-dev-114434",
+      "StackId": "arn:aws:cloudformation:us-east-1:029848503101:stack/amplify-mica-dev-114434/9179b9e0-8e7e-11ec-b226-0e4b061813b3",
+      "AmplifyAppId": "d3upq7w9bkgg1v"
+    },
+    "categories": {
+      "auth": {
+        "mica81a9d1ae": {}
+      }
+    }
+  }
+}

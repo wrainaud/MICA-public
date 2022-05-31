@@ -1,0 +1,16 @@
+.footer{
+    margin-top: .25rem;
+    padding: .25rem;
+    background-color:white;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    align-items: 'center';
+    justify-content: 'center';
+  }
+
+  .footer-links{
+    float: right;
+    margin: 5px;
+  }

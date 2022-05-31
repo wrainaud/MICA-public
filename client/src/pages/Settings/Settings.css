@@ -1,0 +1,26 @@
+.table {
+  margin: auto;
+  table-layout: fixed;
+  align-items: center;
+  border-collapse: collapse;
+  overflow-x: scroll;
+  background-color: white;
+  max-height: 200px;
+  overflow-y: scroll;
+}
+.tbody {
+  color: white;
+  overflow-y: scroll;
+  height: 100px;
+}
+
+#addToTable input {
+  height: 30px;
+  max-width: max-content;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.primaryBtn{
+    margin-bottom: 20px;
+}

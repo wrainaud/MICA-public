@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "react-bootstrap": "^1.6.4",
+    "react-bootstrap-table-next": "^4.0.3",
+    "react-image-magnifiers": "^1.4.0",
+    "react-img-zoom": "^0.1.0"
+  }
+}

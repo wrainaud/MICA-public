@@ -1,0 +1,20 @@
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand>img {
+    padding: 7px 7px;
+}
+
+.h2{
+    color: grey;
+    margin: auto;
+    margin-left: 9px;
+}
+
+
+.nav{
+    justify-content: left;
+    align-items: left;
+}

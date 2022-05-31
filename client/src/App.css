@@ -1,0 +1,118 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif; 
+  text-align: center; 
+  background-color: #021a36; 
+  color: #FFFFFF; 
+  min-height: 100vh;
+  height: 100%; 
+  width: 1080; 
+  padding: 2%;
+  clear: both;
+}
+
+nav{
+  padding: 4%;
+  background-color:grey;
+  border: thin solid white ;
+  position:sticky;
+  top:0;
+   
+}
+
+nav li {
+  margin-top: -1%;
+  padding-left: 2%; padding-right: 2%;
+  margin-left: 5px;
+  background-color: #ffffff;
+  list-style-type: none; 
+  color: #FFFFFF;  
+  font-size: larger; 
+  border: solid thin #065888;  
+  float:left;
+ }
+
+ul{
+  list-style: none;
+}
+
+body {
+  padding-top: 78px;
+  margin-bottom: 0%;
+}
+
+.container-fluid{
+  padding: 0 !important;
+  height: 100%;
+}
+
+.h3.amplify-heading {
+  left: 0;
+  position:sticky;
+  color: #FFFFFF;
+}
+
+
+[data-amplify-authenticator] {
+  --amplify-colors-background-primary: var(--amplify-colors-nuetral-60);
+  --amplify-colors-background-secondary: var(--amplify-colors-neutral-100);
+  --amplify-colors-background-tertiary: var(--amplify-colors-white);
+  --amplify-components-tabs-item-active-color: var(--amplify-colors-blue-100);
+  --amplify-components-tabs-item-color: var(--amplify-colors-white);
+  --amplify-components-tabs-item-focus-color: var(--amplify-colors-blue-100);
+  --amplify-components-tabs-item-hover-color: var(--amplify-colors-blue-60);
+  --amplify-components-text-color: var(--amplify-colors-blue-100);
+  --amplify-colors-font-interactive: var(--amplify-colors-white);
+}
+
+.amplify-input{
+  background-color: #FFFFFF;
+}
+
+.amplify-button[data-variation='primary'] {
+  background: linear-gradient(
+    to right,
+    var(--amplify-colors-blue-100),
+    var(--amplify-colors-neutral-20)
+  );
+}
+
+/* fix padding under menu after resize */
+@media screen and (max-width: 991px) {
+  body { padding-top: 75px; }
+}
+
+@media screen and (max-width: 900px) {
+  body {
+    
+    
+
+  }
+
+  div{
+
+  float: none;
+
+  }
+}
+
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+
+}
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+
+}
+
