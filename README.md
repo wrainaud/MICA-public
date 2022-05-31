@@ -23,7 +23,7 @@ The easiest way to get started is to clone the repository:
 
 ```bash
 # Get the latest snapshot
-git clone --depth=1 https://github.com/wrainaud/practicumtest myproject
+git clone --depth=1 https://github.com/wrainaud/MICA-public myproject
 
 # Change directory to client
 cd myproject/client
@@ -91,12 +91,12 @@ Project Structure
 Support
 -------
 
-Please [open an issue](https://github.com/wrainaud/practicumtest/issues/new) for support.
+Please [open an issue](https://github.com/wrainaud/MICA-public/issues/new) for support.
 
 Contributing
 -------
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/wrainaud/practicumtest/compare/).
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/wrainaud/MICA-public/compare/).
 
 License
 -------
